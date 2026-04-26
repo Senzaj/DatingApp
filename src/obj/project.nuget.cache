@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qkgEGSP9S5k=",
+  "dgSpecHash": "4JgbwKMWDRs=",
   "success": true,
-  "projectFilePath": "D:\\rep\\Lab-web_site\\src\\DatingApp.csproj",
+  "projectFilePath": "D:\\rep\\DatingApp\\src\\DatingApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\senzaj\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.7\\microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
     "C:\\Users\\senzaj\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"

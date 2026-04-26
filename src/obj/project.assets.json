@@ -88,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\rep\\Lab-web_site\\src\\DatingApp.csproj",
+      "projectUniqueName": "D:\\rep\\DatingApp\\src\\DatingApp.csproj",
       "projectName": "DatingApp",
-      "projectPath": "D:\\rep\\Lab-web_site\\src\\DatingApp.csproj",
+      "projectPath": "D:\\rep\\DatingApp\\src\\DatingApp.csproj",
       "packagesPath": "C:\\Users\\senzaj\\.nuget\\packages\\",
-      "outputPath": "D:\\rep\\Lab-web_site\\src\\obj\\",
+      "outputPath": "D:\\rep\\DatingApp\\src\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\senzaj\\AppData\\Roaming\\NuGet\\NuGet.Config"
